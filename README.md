@@ -290,14 +290,3 @@ User Stories
 Mockups
 
 
-
-
-
-
-
-
-
-
-
-![Screenshot 2024-06-13 193549](https://github.com/MonicahKoina/FlavorQuest/assets/145972252/cb0ac922-22fd-408b-9499-e148563b2e22)
-
