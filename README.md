@@ -288,5 +288,16 @@ User Stories
 3.As a user, I want to add a review to a recipe so that I can share my experience with others.I want to tell everyone how yummy it was or if there were any problems.
 
 Mockups
+
+
+
+
+
+
+
+
+
+
+
 ![Screenshot 2024-06-13 193549](https://github.com/MonicahKoina/FlavorQuest/assets/145972252/cb0ac922-22fd-408b-9499-e148563b2e22)
 
