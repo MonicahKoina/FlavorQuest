@@ -6,6 +6,7 @@ ometimes it’s a real hassle trying to find the perfect recipe online. With our
 TEAM 
 Our team is a blend of creativity and tech-savviness, cooking up a delicious app that will revolutionize how people discover recipes 
 •	Wandia Muhoro – Dancer, an electrical engineer and an awesome code wizard 
+
 •	Monicah Mugure – Baker, crocheter  and a top-notch tech guru 
  
 TECHNOLOGIES
@@ -13,9 +14,12 @@ TECHNOLOGIES
 Languages 
 
 • HTML and CSS for structuring the content of the app and making it virtually appealing by styling it.
-•JavaScript- add  front-end interactivity, dynamic functionality and will be used for back-end server logic. 
+
+•JavaScript- add  front-end interactivity, dynamic functionality and will be used for back-end server logic.
+
 • Node.js - For generating dynamic  page content , collecting  form data and 
-Modifying  data in the  database 	
+Modifying  data in the  database 
+
 Platforms 
 • GitHub: For managing and collaboration. 
 
@@ -24,13 +28,16 @@ Frameworks
 
 Books/Resources 
 • Mozilla Developer Network: For HTML, CSS, and JavaScript documentation. 
+
 • Node.js Documentation
+
 • JavaScript.info
 
 Technology Choice Analysis 
 
 -We chose Express.js because of its maturity, extensive middleware options, 
 and larger community support, making it easier to find solutions and integrate additional features despite its cons like Middleware chaining can become complex in larger applications. 
+
 -Fetch API over Axios because it is Native to modern browsers and there is no need for additional libraries.
  
 CHALLENGE 
