@@ -1,6 +1,7 @@
-# FlavorQuest
-FlavorQuest is a recipe finder app👩‍🍳
-ometimes it’s a real hassle trying to find the perfect recipe online. With our app Flavor Finder, we are going to make that search a piece of cake! Users can say goodbye to endless scrolling and confusing websites. Our app will be like a treasure chest, making it super easy to discover delicious dishes based on what they’re craving or the ingredients they have on hand. The app will operate by fetching recipe data from a food API, displaying it in a user-friendly interface and providing a seamless experience for discovering and organizing recipes. 
+# FlavourSafari
+FlavourSafari is a recipe finder website👩‍🍳
+
+sometimes it’s a real hassle trying to find the perfect recipe online. With our FlavourSafari websiter, we are going to make that search a piece of cake! Users can say goodbye to endless scrolling and confusing websites. Our webapp will be like a treasure chest, making it super easy to discover delicious dishes based on what they’re craving or the ingredients they have on hand. The website will operate by fetching recipe data from a food API, displaying it in a user-friendly interface and providing a seamless experience for discovering and organizing recipes. 
 
  
 TEAM 
@@ -17,26 +18,13 @@ Languages
 
 •JavaScript- add  front-end interactivity, dynamic functionality and will be used for back-end server logic.
 
-• Node.js - For generating dynamic  page content , collecting  form data and 
-Modifying  data in the  database 
-
 Platforms 
 • GitHub: For managing and collaboration. 
 
-Frameworks 
-• Express.js: setting up the back-end server
-
 Books/Resources 
-• Mozilla Developer Network: For HTML, CSS, and JavaScript documentation. 
-
-• Node.js Documentation
-
-• JavaScript.info
+• Mozilla Developer Network: For HTML, CSS, and JavaScript documentation.
 
 Technology Choice Analysis 
-
--We chose Express.js because of its maturity, extensive middleware options, 
-and larger community support, making it easier to find solutions and integrate additional features despite its cons like Middleware chaining can become complex in larger applications. 
 
 -Fetch API over Axios because it is Native to modern browsers and there is no need for additional libraries.
  
@@ -48,10 +36,10 @@ to cook with the ingredients they have at home. This can lead to wasted food, re
 
 What the Portfolio Project Will Not Solve
 1. Personalized Dietary Preference:While the app can suggest recipes based on ingredients, it may not fully account for specific dietary preferences.
-2. Cooking Skills: The app assumes users have basic cooking knowledge and skills. It will 
+2. Cooking Skills: The webapp assumes users have basic cooking knowledge and skills. It will 
 not provide in-depth cooking tutorials or guidance for complete beginners. 
  
-Language Support: Initially, the app may be available only in English. Expanding 
+Language Support: Initially, the webapp may be available only in English. Expanding 
 language support can make it more accessible to non-English speaking users around the world. 
 By addressing these considerations, our recipe finder app aims to provide a valuable 
 tool for a wide range of users globally, helping them to discover new recipes, reduce food waste, and simplify meal planning. 
@@ -100,49 +88,7 @@ could lead to low usage and eventual abandonment.
 By addressing these technical and non-technical risks with appropriate safeguards and 
 strategies, the Recipe Finder app aims to provide a reliable, secure, and user-friendly 
 experience, fostering growth and user satisfaction. 
- 
-Technical Risks
-1. API Reliability and Changes
-• Potential Impact: The app relies on a third-party food API for fetching recipe data. If
-the API experiences downtime, changes in endpoints, or rate limits, it could disrupt the
-app’s functionality.
-* Safeguards:
-·         Implement error handling to manage API failures and provide users with appropriate messages.
-·         Use caching strategies to store frequently accessed data.
-·         Monitor API usage and set up alerts for any anomalies.
-2. Data Privacy and Security
-• Potential Impact: Handling user data, such as ingredient inputs or saved recipes, poses privacy and security risks. Data breaches or leaks could damage user trust and result in legal consequences.
-* Safeguards:
-·         Ensure secure communication using HTTPS.
-·         Implement proper data encryption for any stored user data.
-·         Follow best practices for authentication and authorization.
-·         Regularly update dependencies to patch security vulnerabilities.
-3. Cross-Browser Compatibility 
-* Potential Impact: The app may not function correctly on all browsers, leading to a poor user experience for some users.
-* Safeguards:
-·         Test the application on multiple browsers and devices to ensure compatibility. Use modern, widely supported web technologies and polyfills where necessary.
-Non-Technical Risks
-1. User Adoption and Engagement       	
-• Potential Impact: If the app does not attract enough users or fails to engage them, it
-could lead to low usage and eventual abandonment.
-*Strategies:
-·         Conduct market research to understand user needs and preferences.
-·         Implement user feedback mechanisms to continuously improve the app.
-·         Use marketing strategies such as social media promotion, SEO, and partnerships to increase visibility.
-2. Legal and Compliance Issues
-•Potential Impact: Non-compliance with data protection regulations (e.g., GDPR, CCPA) could result in legal penalties and damage to reputation.
-*Strategies:
-·         Ensure compliance with relevant data protection laws by implementing necessary policies and practices.
-·         Regularly review and update the app’s privacy policy.
-·         Seek legal advice to stay informed about regulatory changes.
-3. User Trust and Satisfaction
-•Potential Impact: Negative user experiences or data privacy concerns could erode trust and satisfaction, leading to negative reviews and loss of users.
-*Strategies:
-·         Prioritize user-centric design and development.
-·         Provide transparent communication about data usage and privacy. Implement robust customer support to address user issues promptly.
-By addressing these technical and non-technical risks with appropriate safeguards and
-strategies, the Recipe Finder app aims to provide a reliable, secure, and user-friendly
-experience, fostering growth and user satisfaction.
+
 INFRASTRUCTURE.
 Branching and Merging Strategy
 GitHub Flow
@@ -180,12 +126,10 @@ Using the Spoonacular API
 Testing Tools and Automation
 1. Unit Testing:
                             	
-• Use Jest for unit testing JavaScript code, including both frontend and backend logic.
+• Use Jest for unit testing JavaScript code
 • Write tests for critical functions, API calls, and data handling processes.
 2. Integration Testing:
-* Use a tool like Supertest alongside Jest to test API endpoints and ensure that different parts of the application work together as expected.
-3. End-to-End Testing:
-* Use Cypress for end-to-end testing to simulate real user interactions and verify that the entire application flows correctly.
+* Use a tool like Supertest alongside Jest to test API endpoints and ensure that different parts of the application work together as expected..
 4. Continuous Integration (CI) 	:
 •Set up GitHub Actions to run automated tests on each push and pull request.
 •Configure CI to run the test suite, ensuring that only code that passes all tests is merged into main.
