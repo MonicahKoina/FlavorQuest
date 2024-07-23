@@ -1,6 +1,6 @@
 
 # FlavourSafari
-live demo 
+
 
 FlavourSafari is a recipe finder website👩‍🍳
 
