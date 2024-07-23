@@ -1,7 +1,25 @@
+
 # FlavourSafari
+live demo 
+
 FlavourSafari is a recipe finder website👩‍🍳
 
-sometimes it’s a real hassle trying to find the perfect recipe online. With our FlavourSafari websiter, we are going to make that search a piece of cake! Users can say goodbye to endless scrolling and confusing websites. Our webapp will be like a treasure chest, making it super easy to discover delicious dishes based on what they’re craving or the ingredients they have on hand. The website will operate by fetching recipe data from a food API, displaying it in a user-friendly interface and providing a seamless experience for discovering and organizing recipes. 
+sometimes it’s a real hassle trying to find the perfect recipe online. With our FlavourSafari website, we are going to make that search a piece of cake! Users can say goodbye to endless scrolling and confusing websites. Our webapp will be like a treasure chest, making it super easy to discover delicious dishes based on what they’re craving or the ingredients they have on hand. The website will operate by fetching recipe data from a food API, displaying it in a user-friendly interface and providing a seamless experience for discovering and organizing recipes. 
+
+
+
+
+
+#live demo
+
+https://github.com/user-attachments/assets/62533d0b-d170-48fa-8b6d-82f060002e8a
+
+
+
+
+
+
+
 
  
 TEAM 
@@ -176,12 +194,6 @@ Chosen Specification Justification:
 *Flexibility and Adaptability: Developing our own solution allows us to adapt and expand the app based on user feedback and changing needs. We can add features incrementally without the constraints of an existing platform.
 *Educational and Developmental Benefits: The reimplementation process provides valuable learning experiences for the development team, enhancing skills in web development, API integration, and user experience design.
 By understanding and leveraging the strengths of existing solutions while addressing their weaknesses, we aim to create a streamlined, user-centric recipe finder app that offers a unique value proposition in the market.
-
-
-Architecture
-
-
-![FlavourQuest_System_Architecture_(light) drawio 1](https://github.com/MonicahKoina/FlavorQuest/assets/145972252/cf5c4ce9-3483-4441-8f24-96e2745f3013)
 
 
 
